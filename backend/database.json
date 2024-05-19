@@ -1,0 +1,29 @@
+{
+  "admins": {
+    "superleoxu@gmail.com": {
+      "name": "Leo",
+      "password": "super",
+      "store": {}
+    },
+    "leo@gmail.com": {
+      "name": "leo",
+      "password": "hello",
+      "store": {}
+    },
+    "newemail@gmail.com": {
+      "name": "Leo",
+      "password": "hello",
+      "store": {}
+    },
+    "hello@gmail.com": {
+      "name": "poop",
+      "password": "poop",
+      "store": {}
+    },
+    "hello21@gmail.com": {
+      "name": "leo",
+      "password": "hello",
+      "store": {}
+    }
+  }
+}
